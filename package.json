@@ -1,0 +1,22 @@
+{
+  "name": "rollup-task-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-lenk/rollup-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-lenk/rollup-task/issues"
+  },
+  "homepage": "https://github.com/alex-lenk/rollup-task#readme"
+}
